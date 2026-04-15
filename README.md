@@ -179,9 +179,9 @@ cta-report-automation/
 
 **Piyush Ramesh Kothawade**
 Data Analyst / AI Automation Analyst
-Shubhada Polymers Products Pvt. Ltd., Nashik
+Shubhada Polymers Products Pvt. Ltd., Nashik [LinkedIn](https://www.linkedin.com/in/piyush-kothawade/) · [Portfolio](https://codebasics.io/portfolio/Piyush-Kothawade)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/piyushkothawade)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/piyush-kothawade/)
 
 ---
 
